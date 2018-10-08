@@ -8,25 +8,34 @@ class ImgFigure extends Component {
     }
 
     handleClick = (e) => {
-        this.props.inverse();
+        if (this.props.arrange.isCenter) {
+            this.props.inverse();
+        } else {
+            this.props.center();
+        }
         e.stopPropagation();
         e.preventDefault();
     };
 
     render() {
         let styleObj = {};
+        // Object.defineProperty(styleObj, 'zIndex', {
+        //     value: 11,
+        //     writable: true,
+        //     enumerable: false,
+        //     configurable: false
+        // });
         if (this.props.arrange.pos) {
             styleObj = this.props.arrange.pos;
         }
-        // if (this.props.arrange.rotate) {
-        //     styleObj['transform'] = 'rotate(' + this.props.arrange.rotate + 'deg)'
-        // }
         if (this.props.arrange.rotate) {
             (['MozTransform', 'msTransform', 'WebkitTransform', 'transform']).forEach(function (value) {
                 styleObj[value] = 'rotate(' + this.props.arrange.rotate + 'deg)';
             }.bind(this));
         }
-
+        if (this.props.arrange.isCenter) {
+            styleObj['zIndex'] = 1;
+        }
         let imgFigureClassName = "img-figure";
         imgFigureClassName += this.props.arrange.isInverse ? ' is-inverse' : '';
         return (
