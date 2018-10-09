@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a0d9d74-0aeb-4265-b68c-5687c6860306" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/17.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/ImgFigure.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ImgFigure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/imageData.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/imageData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/9.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,17 +51,17 @@
       <file leaf-file-name="App.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="266">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImgFigure.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImgFigure.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/component/ImgFigure.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="817">
+              <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -60,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imageData.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="imageData.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/data/imageData.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+            <state relative-caret-position="836">
+              <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -91,13 +109,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/data/imageData.json" />
-        <option value="$PROJECT_DIR$/src/data/imageData.json" />
         <option value="$PROJECT_DIR$/src/component/ImgFigure.css" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/component/ImgFigure.scss" />
-        <option value="$PROJECT_DIR$/src/App.scss" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/component/ImgFigure.js" />
+        <option value="$PROJECT_DIR$/src/App.scss" />
+        <option value="$PROJECT_DIR$/src/data/imageData.json" />
       </list>
     </option>
   </component>
@@ -147,7 +165,7 @@
               <item name="habby-birthday-my-love" type="b2602c69:ProjectViewProjectNode" />
               <item name="habby-birthday-my-love" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,6 +190,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -197,15 +216,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538846187773</updated>
-      <workItem from="1538846190281" duration="31270000" />
+      <workItem from="1538846190281" duration="33531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31270000" />
+    <option name="totallyTimeSpent" value="33531000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="23" width="1481" height="1417" extended-state="0" />
+    <frame x="990" y="23" width="1481" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2748143" />
@@ -282,13 +301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/imageData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/component/ImgFigure.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -300,13 +312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -322,11 +327,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/component/ImgFigure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="817">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/imageData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
         </state>
       </provider>
     </entry>

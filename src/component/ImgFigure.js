@@ -19,14 +19,9 @@ class ImgFigure extends Component {
 
     render() {
         let styleObj = {};
-        // Object.defineProperty(styleObj, 'zIndex', {
-        //     value: 11,
-        //     writable: true,
-        //     enumerable: false,
-        //     configurable: false
-        // });
         if (this.props.arrange.pos) {
-            styleObj = this.props.arrange.pos;
+            styleObj.left = this.props.arrange.pos.left;
+            styleObj.top = this.props.arrange.pos.top;
         }
         if (this.props.arrange.rotate) {
             (['MozTransform', 'msTransform', 'WebkitTransform', 'transform']).forEach(function (value) {
