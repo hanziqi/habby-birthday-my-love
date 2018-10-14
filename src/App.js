@@ -132,7 +132,7 @@ class App extends Component {
         this.Constant.vPosRange.x[0] = halfStageW - imgW;
         this.Constant.vPosRange.x[1] = halfStageW;
 
-        this.rearrange(0);
+        this.rearrange(Math.ceil(Math.random() * 15));
     }
 
     getImageURL = (imageDatasArr) => {
