@@ -1,7 +1,7 @@
 {
   "name": "habby-birthday-my-love",
   "version": "0.1.0",
-  "homepage": "https://hanziqi.github.io/to-my-love-ztt/",
+  "homepage": "https://hanziqi.github.io/habby-birthday-my-love/",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
