@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/habby-birthday-my-love/precache-manifest.b542f7f5bc5d7b3fddbaa48cc5527afa.js"
+  "/habby-birthday-my-love/precache-manifest.7d9daed3ca715588b177e7c0d732de52.js"
 );
 
 workbox.clientsClaim();

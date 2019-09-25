@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/habby-birthday-my-love/static/media/15.fe8ce3c4.jpeg"
   },
   {
-    "revision": "47204e63ec19dfb87a55",
+    "revision": "2c5464aa24c6aaa5b48d",
     "url": "/habby-birthday-my-love/static/css/main.d0dce5ea.chunk.css"
   },
   {
@@ -36,20 +36,20 @@ self.__precacheManifest = [
     "url": "/habby-birthday-my-love/static/media/13.b5562fbf.jpeg"
   },
   {
-    "revision": "4eaf48964aca9f98b8816eee8ac42a58",
-    "url": "/habby-birthday-my-love/static/media/14.4eaf4896.jpeg"
+    "revision": "54c4ccc7c880d753afe6e0e5964df62a",
+    "url": "/habby-birthday-my-love/static/media/14.54c4ccc7.jpeg"
   },
   {
-    "revision": "47204e63ec19dfb87a55",
-    "url": "/habby-birthday-my-love/static/js/main.47204e63.chunk.js"
+    "revision": "2c5464aa24c6aaa5b48d",
+    "url": "/habby-birthday-my-love/static/js/main.2c5464aa.chunk.js"
   },
   {
     "revision": "2da6b033351a4a417829e9a841287c4a",
     "url": "/habby-birthday-my-love/static/media/16.2da6b033.jpeg"
   },
   {
-    "revision": "cdd7c2eb7f36aff9e167a6092dbf8ac6",
-    "url": "/habby-birthday-my-love/static/media/2.cdd7c2eb.jpeg"
+    "revision": "e3b3dc6c6f35808684c8ab78090c3d45",
+    "url": "/habby-birthday-my-love/static/media/2.e3b3dc6c.jpeg"
   },
   {
     "revision": "a3c902592b354d70673c1bee7f152cdb",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/habby-birthday-my-love/static/media/9.2e3e3644.jpeg"
   },
   {
-    "revision": "f127d552eace12dba9bfc0c8a265ea8f",
+    "revision": "ac8b4f38dea9077a56d2ee1b5ef1172c",
     "url": "/habby-birthday-my-love/index.html"
   }
 ];
